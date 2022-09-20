@@ -1,4 +1,4 @@
-# StudyNotebook
+## StudyNotebook
 
 🥝 **笔记目录**
 
